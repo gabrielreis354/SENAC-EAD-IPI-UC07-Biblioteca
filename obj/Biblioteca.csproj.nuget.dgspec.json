@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ2\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ2\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ2\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ2\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\G-STUFF\\senac\\trabalhos-senac\\uc7\\uc7-ativ2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
