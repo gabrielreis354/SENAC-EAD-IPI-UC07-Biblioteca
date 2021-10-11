@@ -9,7 +9,7 @@ namespace Biblioteca.Controllers
     {
         public static void CheckLogin(Controller controller)
         {   
-            if(string.IsNullOrEmpty(controller.HttpContext.Session.GetString("login")))
+            if(string.IsNullOrEmpty(controller.HttpContext.Session.GetString("Login")))
             {
                 controller.Request.HttpContext.Response.Redirect("/Home/Login");
             }
@@ -33,6 +33,7 @@ namespace Biblioteca.Controllers
 
         public static bool verificaLoginSenha(string Login, string Senha, Controller controller) {
             using (BibliotecaContext bc = new BibliotecaContext()) {
+                
                 verificaseUsuarioAdminExiste(bc);
 
                 Senha = Criptografo.TextoCriptografado(Senha);

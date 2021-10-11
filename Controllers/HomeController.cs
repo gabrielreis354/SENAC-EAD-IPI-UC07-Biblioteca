@@ -35,11 +35,12 @@ namespace Biblioteca.Controllers
         {
             if (Autenticacao.verificaLoginSenha(login, senha, this))
             {
+                
                 return RedirectToAction("Index");
             }
             else
             {
-                ViewData["Error"] = "Senha Inválida";
+                ViewData["Erro"] = "Senha Inválida";
                 return View();
             }
         }
